@@ -1,0 +1,10 @@
+version: 1.0
+shards:
+  cincle:
+    github: globoplox/cincle
+    commit: f88bd90bc73286196cabc8ce75415169d335cb10
+
+  lingo:
+    github: rmosolgo/lingo
+    commit: 2c091c352df904dd16efe777c0ace1a27e2cebde
+
