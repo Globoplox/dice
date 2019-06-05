@@ -13,6 +13,7 @@ TODO: Write usage instructions here
 ## Development
 
 TODO: Write development instructions here
+Use new humanize api to build numbers rules
 
 ## Contributing
 
